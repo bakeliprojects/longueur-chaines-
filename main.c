@@ -13,7 +13,7 @@ int main()
       longueurChaine = strlen(chaine);
 
     // On affiche la longueur de la chaîne
-      printf("La chaine %s fait %d caracteres de long", chaine, longueurChaine);
+      printf("La chaine %s fait %d caracteres de longueur", chaine, longueurChaine);
 
     return 0;
 }
